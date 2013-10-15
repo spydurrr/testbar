@@ -1,0 +1,40 @@
+[class^="icon-"] {
+margin: 4px;
+position:relative;
+-webkit-backface-visibility:hidden;
+	-moz-backface-visibility:hidden;
+	-ms-backface-visibility:hidden;
+	-o-backface-visibility:hidden;
+	backface-visibility:hidden;
+}
+
+[class^="icon-"]:hover {
+
+}
+
+
+
+
+.icon-large {
+	
+	background: url(../sprite.png) no-repeat top left;
+	
+	display: inline-block;
+	height: 40px;
+	line-height: 40px;
+	
+	width: 40px;
+	background-color: transparent;
+	
+}
+
+.icon-large-comments{ background-position: 0 0; width: 40px; height: 40px; } 
+.icon-large-dislike{ background-position: 0 -50px; width: 40px; height: 40px; } 
+.icon-large-email{ background-position: 0 -100px; width: 40px; height: 40px; } 
+.icon-large-facebook{ background-position: 0 -150px; width: 40px; height: 40px; } 
+.icon-large-googleplus{ background-position: 0 -200px; width: 40px; height: 40px; } 
+.icon-large-like{ background-position: 0 -250px; width: 40px; height: 40px; } 
+.icon-large-linkedin{ background-position: 0 -300px; width: 40px; height: 40px; } 
+.icon-large-share{ background-position: 0 -350px; width: 40px; height: 40px; } 
+.icon-large-star{ background-position: 0 -400px; width: 40px; height: 40px; } 
+.icon-large-twitter{ background-position: 0 -450px; width: 40px; height: 40px; } 
